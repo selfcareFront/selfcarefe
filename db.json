@@ -1,9 +1,5 @@
 {
-  "orangeNumbers":[
-    "77 111 22 22",
-    "77 333 22 22"
-    ],
-    "users": 
+  "users": 
     {
     "mainNumber": "77 777 77 77",
     "attachedNumbers": [
