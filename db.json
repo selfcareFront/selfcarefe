@@ -1,0 +1,37 @@
+[
+orangeNumbers:[
+"77 111 22 22",
+"77 333 22 22"
+],
+"users": 
+{
+mainNumber: "77 777 77 77",
+attachedNumbers: [
+"77 000 00 00",
+"77 111 11 11"
+],
+firstName: "John",
+lastName: "Doe",
+email: "john@gmail.com"
+},
+{
+mainNumber: "77 777 77 77",
+attachedNumbers: [
+"77 000 00 00",
+"77 111 11 11"
+],
+firstName: "John",
+lastName: "Doe",
+email: "john@gmail.com"
+},
+{
+mainNumber: "78 888 88 88",
+attachedNumbers: [
+"78 000 00 00",
+"78 111 11 11"
+],
+firstName: "yassine",
+lastName: "chafyaay",
+email: "john@gmail.com"
+}
+]
