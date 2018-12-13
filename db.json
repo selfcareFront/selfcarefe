@@ -1,33 +1,48 @@
 {
-  "users": 
+  "otp": [
+    "131313"
+  ],
+  "orangeNumbers": [
     {
-    "mainNumber": "77 777 77 77",
-    "attachedNumbers": [
-    "77 000 00 00",
-    "77 111 11 11"
-    ],
-    "firstName": "John",
-    "lastName": "Doe",
-    "email": "john@gmail.com"
+      "phone": "77 777 77 77"
     },
     {
-    "mainNumber": "77 777 77 77",
-    "attachedNumbers": [
-    "77 000 00 00",
-    "77 111 11 11"
-    ],
-    "firstName": "John",
-    "lastName": "Doe",
-    "email": "john@gmail.com"
+      "phone": "77 444 22 22"
     },
     {
-    "mainNumber": "78 888 88 88",
-    "attachedNumbers": [
-    "78 000 00 00",
-    "78 111 11 11"
-    ],
-    "firstName": "yassine",
-    "lastName": "chafyaay",
-    "email": "john@gmail.com"
+      "phone": "77 134 22 22"
+    },
+    {
+      "phone": "78 000 00 00"
+    },
+    {
+      "phone": "78 111 11 11"
     }
-   }
+  ],
+  "users": [
+    {
+      "phoneNumber": "77 777 77 77",
+      "attachedNumbers": [
+        "77 000 00 00",
+        "77 111 11 11"
+      ],
+      "firstName": "jalal",
+      "lastName": "rahim",
+      "email": "john@gmail.com",
+      "password": "1234",
+      "createdDate": "21/09/2018"
+    },
+    {
+      "phoneNumber": "77 888 88 88",
+      "attachedNumbers": [
+        "78 000 00 00",
+        "78 111 11 11"
+      ],
+      "firstName": "hamada",
+      "lastName": "said",
+      "email": "john@gmail.com",
+      "password": "1234",
+      "createdDate": "21/09/2018"
+    }
+  ]
+}
