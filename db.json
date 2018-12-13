@@ -22,6 +22,7 @@
   ],
   "users": [
     {
+      "id":1,
       "phoneNumber": "77 777 77 77",
       "attachedNumbers": [
         "77 000 00 00",
@@ -34,6 +35,7 @@
       "createdDate": "21/09/2018"
     },
     {
+      "id":2,
       "phoneNumber": "77 888 88 88",
       "attachedNumbers": [
         "78 000 00 00",
